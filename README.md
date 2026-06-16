@@ -1,6 +1,5 @@
 # Trying to Learning More
----
-Hi! I'm Christian Wright and this is my personal depsoitory for *DSCI-8133 Foundations of Data Science*
+Hi! I'm Christian Wright and this is my personal depsoitory for *DSCI-8133 Foundations of Data Science* ---
 ## Plan
 I plan on adding more to this repsoitory with some coming from [jupyter]([https://jupyter.org]).
 ## About Me
