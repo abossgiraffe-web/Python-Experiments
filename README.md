@@ -11,5 +11,5 @@ For as long I could remember, I loved messing with technology like **computers a
 - Media Creation
   
 Was having some fun with new camera and Spider-Man mask, was meaning to replicate the *Absolute Cinema* meme.
-![Man in Red Spider-Man Mask with arms raised having palms facing foward](WIN_20250627_16_34_10_Pro.jpg)
+![Man in Red Spider-Man Mask with arms raised having open palms facing foward](WIN_20250627_16_34_10_Pro.jpg)
 
